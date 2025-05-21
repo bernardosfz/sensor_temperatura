@@ -1,0 +1,1 @@
+RABBIT_CONFIG = 'amqps://ezpebcyp:RVIKfCfaF9wK-MADUgl6nMiM5v_6XzCP@kebnekaise.lmq.cloudamqp.com/ezpebcyp'
