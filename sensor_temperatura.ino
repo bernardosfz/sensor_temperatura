@@ -16,7 +16,7 @@ void loop() {
 
   Serial.println(DHT11.temperature);
 
-  if (DHT11.temperature < 15 || DHT11.temperature > 25) {
+  if (DHT11.temperature > 28) {
     digitalWrite(LEDPIN, HIGH);
   } else {
     digitalWrite(LEDPIN, LOW);
